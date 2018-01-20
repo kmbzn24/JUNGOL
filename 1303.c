@@ -6,7 +6,8 @@
     Time:1 ms
     Memory:1092 kb
 ****************************************************************/
-
+ 
+ 
 #include <stdio.h>
 int main(void) {
     int h, w;
